@@ -4,6 +4,8 @@ It's worth mentioning that I have not used Terraform before this assessment, but
 
 ######################################################################################
 
+![Diagram](img/diagram.PNG)
+
 I don't typically create diagrams from scratch, so I found an online tool here to map out my thought process on how to create this system
 https://online.visual-paradigm.com
 
